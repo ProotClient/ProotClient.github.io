@@ -1,0 +1,41 @@
+body {
+    background-image: url("../img/panorama_1.png");
+    background-size: cover;
+    background-position: 0px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+button.home {
+    background-image: url("../img/button_home.png");
+    background-color: transparent;
+    padding: 0;
+    border: none;
+    height: 40px;
+    width: 308px;
+}
+
+button.home:hover {
+    background-image: url("../img/button_home_hover.png");
+}
+
+button.home:active {
+    background-image: url("../img/button_home_press.png");
+}
+
+button.download {
+    background-image: url("../img/button_download.png");
+    background-color: transparent;
+    padding: 0;
+    border: none;
+    height: 40px;
+    width: 308px;
+}
+
+button.download:hover {
+    background-image: url("../img/button_download_hover.png");
+}
+
+button.download:active {
+    background-image: url("../img/button_download_press.png");
+}
