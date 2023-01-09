@@ -1,0 +1,84 @@
+text {
+    white-space: pre-wrap;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.strikethrough {
+    text-decoration-line: line-through;
+}
+
+.dark_red {
+    color: #BE0000;
+}
+
+.red {
+    color: #FE3F3F;
+}
+
+.gold {
+    color: #D9A334;
+}
+
+.yellow {
+    color: #FEFE3F;
+}
+
+.dark_green {
+    color: #00BE00;
+}
+
+.green {
+    color: #3FFE3F;
+}
+
+.aqua {
+    color: #3FFEFE;
+}
+
+.dark_aqua {
+    color: #00BEBE;
+}
+
+.dark_blue {
+    color: #0000BE;
+}
+
+.blue {
+    color: #3F3FFE;
+}
+
+.light_purple {
+    color: #FE3FFE;
+}
+
+.dark_purple {
+    color: #BE00BE;
+}
+
+.white {
+    color: #FFFFFF;
+}
+
+.gray {
+    color: #BEBEBE;
+}
+
+.dark_gray {
+    color: #3F3F3F;
+}
+
+.black {
+    color: #000000;
+}
+
